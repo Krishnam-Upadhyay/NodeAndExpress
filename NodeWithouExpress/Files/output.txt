@@ -1,0 +1,3 @@
+Thi is Synchronous wala file
+This is the append text file yoused to show in outpu file folder
+Thu Feb 02 2023 08:57:49 GMT+0530 (India Standard Time)
